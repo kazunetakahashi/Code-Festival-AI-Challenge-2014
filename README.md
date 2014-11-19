@@ -1,4 +1,4 @@
-Code_Fes_AI_Challenge
+Code-Festival-AI-Challenge-2014
 =====================
 
 Code Festival 2014 AI Challenge で提出したプログラム。
